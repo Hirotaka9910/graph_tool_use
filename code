@@ -1,0 +1,6 @@
+import sys
+sys.path.append(‘/usr/local/Cellar/graph-tool/2.27_2/lib/python3.7/site-packages’) 
+sys.path.append(‘/usr/local/Cellar/cairo/1.16.0’) 
+sys.path.append(‘/usr/local/Cellar/gtk+3/3.22.30’) 
+sys.path.append(‘/usr/local/Cellar/pygobject3/3.30.3/lib/python3.7/site-packages’) 
+from graph_tool.all import*
