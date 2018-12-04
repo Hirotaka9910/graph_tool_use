@@ -1,6 +1,6 @@
 import sys
 sys.path.append('/usr/local/Cellar/graph-tool/2.27_2/lib/python3.7/site-packages') 
-sys.path.append('/usr/local/Cellar/cairo/1.16.0') 
+sys.path.append('/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages')
 sys.path.append('/usr/local/Cellar/pygobject3/3.30.3/lib/python3.7/site-packages') 
 import graph_tool.all as gt
 import numpy
